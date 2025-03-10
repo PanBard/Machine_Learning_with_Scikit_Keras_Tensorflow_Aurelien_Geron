@@ -11,6 +11,7 @@ jupyterlab = "^4.3.5"
 matplotlib = "^3.10.1"
 pandas = "^2.2.3"
 scikit-learn = "^1.6.1"
+graphviz = "^0.20.3"
 
 
 [build-system]
